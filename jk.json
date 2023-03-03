@@ -274,6 +274,36 @@
         },
         {
             "isOpen": true,
+            "name": "fans互动",
+            "envName":"jd_wxFansInterActionActivity_activityId",
+            "scriptPath":"KingRan_KR/jd_wxFansInterActionActivity.js"
+        },
+        {
+            "isOpen": true,
+            "name": "krbirth",
+            "envName":"jd_wxMcLevelAndBirthGifts_activityId",
+            "scriptPath":"KingRan_KR/jd_wxMcLevelAndBirthGifts.js"
+        },
+        {
+            "isOpen": true,
+            "name": "lzgoodlift",
+            "envName":"jd_daily_activityId",
+            "scriptPath":"KingRan_KR/jd_daily.js"
+        },
+        {
+            "isOpen": true,
+            "name": "krguanzhu",
+            "envName":"jd_wxShopFollowActivity_activityUrl",
+            "scriptPath":"KingRan_KR/jd_wxShopFollowActivity.js"
+        },
+        {
+            "isOpen": true,
+            "name": "lz有礼",
+            "envName":"jd_lzkj_loreal_draw_url",
+            "scriptPath":"KingRan_KR/jd_lzkj_loreal_draw.js"
+        },
+        {
+            "isOpen": true,
             "name": "har签到",
             "envName":"DPQDTK",
             "scriptPath":"HarbourJ_HarbourToulu_main/jd_dpqd.js"
